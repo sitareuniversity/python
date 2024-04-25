@@ -23,7 +23,7 @@ ImageEditor is a Flask-based web application that allows users to upload and edi
 ## Contributors
 
 - [Rajat Malviya](https://github.com/rajat-malvi)
-- [Sundeep Kumar](https://github.com/skddl007)
+- [Sandeep Kumar](https://github.com/skddl007)
 
 ## Usage
 
